@@ -1,0 +1,7 @@
+body{background-image:url(bg.jpg);background-attachment:fixed}
+
+h1{text-align: center;color: #663300;font-size: 68px;font-family:serif;font-style:oblique;text-decoration: underline}
+h2{text-align: center;font-size: 30px;font-family:serif;}
+h3{color:#190033; font-family:arial;}
+h4{text-align: center; color:#000066; font-family:arial; font-weight:bold}
+img{display: block;margin-left: auto;margin-right: auto}
